@@ -1,36 +1,28 @@
-# Jeu de Cartes Marocain - Ronda
+# 🎴 **Moroccan Card Game - Ronda**
 
-Ce projet est une implémentation du jeu de cartes marocain 
-"Ronda" en C++ avec l'utilisation du framework Qt.
+**Developed with C++ and Qt**
 
-## Outils Utilisés
+## Tools Used
 
-- **Qt Creator :** Utilisé comme environnement de développement intégré (IDE) principal pour sa compatibilité native avec Qt, facilitant la conception visuelle d'interfaces utilisateur et le débogage.
-- **QMake et CMake :** QMake a été utilisé pour la gestion du projet Qt spécifiquement, tandis que CMake a été adopté pour sa capacité à
-  gérer efficacement les dépendances et la configuration du processus de construction du projet dans un contexte plus général.
-- **Bibliothèque Principale :** La bibliothèque principale utilisée est la bibliothèque Qt, qui offre un ensemble
-   complet de fonctionnalités pour le développement d'applications C++.
+- **Qt Creator:** Used as the primary integrated development environment (IDE) for its native compatibility with Qt, facilitating the visual design of user interfaces and debugging.
+- **QMake and CMake:** QMake was used for managing the Qt project specifically, while CMake was adopted for its ability to efficiently handle dependencies and configure the project build process in a more general context.
+- **Main Library:** The main library used is the Qt library, which offers a comprehensive set of features for C++ application development.
 
-## Objectif du Projet
+## Project Objective
 
-Le projet a pour objectif de développer un jeu de cartes marocain basé sur le jeu populaire "Ronda".
-Les cartes marocaines, comprenant 40 cartes réparties en quatre enseignes (coupes, épées, bâtons et deniers),
-servent de base pour jouer à ce jeu. L'objectif principal du jeu est de remporter un certain nombre
-de points en collectant des cartes spécifiques.
+The project aims to develop a Moroccan card game based on the popular "Ronda" game. Moroccan cards, consisting of 40 cards distributed in four suits (cups, swords, clubs, and coins), serve as the foundation for playing this game. The primary objective of the game is to score a certain number of points by collecting specific cards.
 
-## Comment Exécuter le Projet
+## How to Run the Project
 
-1. **Prérequis :**
-   - Assurez-vous d'avoir installé Qt sur votre machine.
-   - Configurez votre environnement de développement.
+1. **Prerequisites:**
+   - Ensure you have Qt installed on your machine.
+   - Set up your development environment.
 
-Pour installer Qt Creator sur Windows pour le développement de jeux avec Qt
-et C++, suivez ces étapes :
--> Téléchargez et exécutez l'installateur Qt depuis le site officiel de téléchargement de Qt:
-https://doc.qt.io/qt-6/get-and-install-qt.html
+**To install Qt Creator on **Windows** for game development with Qt and C++, follow these steps:
+-> Download and run the Qt installer from the official Qt download site: https://doc.qt.io/qt-6/get-and-install-qt.html
 https://web.stanford.edu/dept/cs_edu/resources/qt/install-windows
+**To install Qt Creator on **LINUX**: https://web.stanford.edu/dept/cs_edu/resources/qt/install-linux
 
-->Lors de l'installation, sélectionnez l'option "Qt 6.5 for desktop development" , le MinGW toolchain et Qt libraries pour MinGW.
-->Attendez la fin du processus d'installation.
-->Lancez Qt Creator et configurez les kits de build en allant dans Outils > Options > Build & Run > Kits. Assurez-vous qu'un compilateur est sélectionné
-
+-> During installation, select the "Qt 6.5 for desktop development," the MinGW toolchain, and Qt libraries for MinGW.
+-> Wait for the installation process to complete.
+-> Launch Qt Creator and configure build kits by going to Tools > Options > Build & Run > Kits. Ensure a compiler is selected.
