@@ -18,12 +18,13 @@ The project aims to develop a Moroccan card game based on the popular "Ronda" ga
    - Ensure you have Qt installed on your machine.
    - Set up your development environment.
 
-**To install Qt Creator on **Windows** for game development with Qt and C++, follow these steps:
+=> To install Qt Creator on **Windows** for game development with Qt and C++, follow these steps:
 -> Download and run the Qt installer from the official Qt download site:
-- https://doc.qt.io/qt-6/get-and-install-qt.html
-- https://web.stanford.edu/dept/cs_edu/resources/qt/install-windows
-**To install Qt Creator on **LINUX**:
-  - https://web.stanford.edu/dept/cs_edu/resources/qt/install-linux
+- https://doc.qt.io/qt-6/get-and-install-qt.html .
+- https://web.stanford.edu/dept/cs_edu/resources/qt/install-windows .
+  
+=> To install Qt Creator on **LINUX**:
+  - https://web.stanford.edu/dept/cs_edu/resources/qt/install-linux .
 
 -> During installation, select the "Qt 6.5 for desktop development," the MinGW toolchain, and Qt libraries for MinGW.
 -> Wait for the installation process to complete.
