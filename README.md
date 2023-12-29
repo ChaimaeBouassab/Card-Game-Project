@@ -2,17 +2,17 @@
 
 **Developed with C++ and Qt**
 
-## Tools Used
+## Tools Used :
 🖥️ 📚👩🏾‍💻✅
 - **Qt Creator:** Used as the primary integrated development environment (IDE) for its native compatibility with Qt, facilitating the visual design of user interfaces and debugging.
 - **QMake and CMake:** QMake was used for managing the Qt project specifically, while CMake was adopted for its ability to efficiently handle dependencies and configure the project build process in a more general context.
 - **Main Library:** The main library used is the Qt library, which offers a comprehensive set of features for C++ application development.
 
-## Project Objective
+## Project Objective :
 📲🤖🎮
 The project aims to develop a Moroccan card game based on the popular "Ronda" game. Moroccan cards, consisting of 40 cards distributed in four suits (cups, swords, clubs, and coins), serve as the foundation for playing this game. The primary objective of the game is to score a certain number of points by collecting specific cards.
 
-## How to Run the Project
+## How to Run the Project ?
 🤖🧠🧑‍💻🖥️⚙️🦾
 1. **Prerequisites:**
    - Ensure you have Qt installed on your machine.
